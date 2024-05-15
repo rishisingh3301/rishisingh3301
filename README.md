@@ -41,32 +41,12 @@
 
 </div>
 
-<hr/>
+
 
 
 <div align="center">
 
-### My Accounts
 
-<br />
-
-
-</a>
-<a href="https://www.linkedin.com/in/rishisingh3301/">
-    <img alt="Linkedin"       width="80px"       src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />&nbsp;&nbsp;
-</a>
-<a href="https://github.com/rishisingh3301">
-    <img alt="Github"         width="80px"         src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />&nbsp;&nbsp;
-</a>
-<a href="https://api.WhatsApp.com/send?text=Hello%20Rishi%20👋&phone=+918318134064">
-    <img alt="Whatsapp"       width="80px"       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" />&nbsp;&nbsp;
-</a>
-
-
-
-</div>
-
-<br/>
 
 
 <hr/>
